@@ -1,12 +1,12 @@
 {
   "name": "angular-gauge-chart",
-  "version": "0.7.2",
+  "version": "0.7.4",
   "peerDependencies": {
-    "@angular/common": "^8.0.0",
-    "@angular/core": "^8.0.0"
+    "@angular/common": "^9.1.11",
+    "@angular/core": "^9.1.11"
   },
   "dependencies": {
-    "gauge-chart": "^0.5.1"
+    "gauge-chart": "^0.5.3"
   },
   "scripts": {
     "precommit": "lint-staged"

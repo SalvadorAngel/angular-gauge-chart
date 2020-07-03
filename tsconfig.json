@@ -13,6 +13,11 @@
     "target": "es5",
     "typeRoots": ["node_modules/@types"],
     "lib": ["es2017", "dom"],
-    "paths": {}
+    "paths": {
+      "base-gauge-chart": [
+        "dist/base-gauge-chart/base-gauge-chart",
+        "dist/base-gauge-chart"
+      ]
+    }
   }
 }
